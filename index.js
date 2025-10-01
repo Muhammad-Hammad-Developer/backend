@@ -33,7 +33,7 @@ app.use(
       "https://nexznow-adminpanel.vercel.app", // admin panel
       "http://localhost:5173",               // local dev frontend
       "http://localhost:5174", 
-      "https://nexzenow.vercel.app"  ,            // another local dev
+      "https://nexznow.vercel.app"  ,            // another local dev
       /\.loca\.lt$/,                         // allow localtunnel subdomains
       /\.ngrok-free\.app$/                   // allow ngrok subdomains
     ],
